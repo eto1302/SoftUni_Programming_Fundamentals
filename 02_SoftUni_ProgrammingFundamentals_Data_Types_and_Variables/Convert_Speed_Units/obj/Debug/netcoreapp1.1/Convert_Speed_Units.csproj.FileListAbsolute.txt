@@ -1,0 +1,8 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Convert_Speed_Units\bin\Debug\netcoreapp1.1\Convert_Speed_Units.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Convert_Speed_Units\bin\Debug\netcoreapp1.1\Convert_Speed_Units.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Convert_Speed_Units\bin\Debug\netcoreapp1.1\Convert_Speed_Units.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Convert_Speed_Units\bin\Debug\netcoreapp1.1\Convert_Speed_Units.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Convert_Speed_Units\bin\Debug\netcoreapp1.1\Convert_Speed_Units.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Convert_Speed_Units\obj\Debug\netcoreapp1.1\Convert_Speed_Units.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Convert_Speed_Units\obj\Debug\netcoreapp1.1\Convert_Speed_Units.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Convert_Speed_Units\obj\Debug\netcoreapp1.1\Convert_Speed_Units.pdb

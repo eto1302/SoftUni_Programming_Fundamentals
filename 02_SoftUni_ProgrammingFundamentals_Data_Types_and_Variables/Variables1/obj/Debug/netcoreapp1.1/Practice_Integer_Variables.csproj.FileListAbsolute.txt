@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Variables1\bin\Debug\netcoreapp1.1\Practice_Integer_Variables.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Variables1\bin\Debug\netcoreapp1.1\Practice_Integer_Variables.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Variables1\bin\Debug\netcoreapp1.1\Practice_Integer_Variables.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Variables1\bin\Debug\netcoreapp1.1\Practice_Integer_Variables.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Variables1\bin\Debug\netcoreapp1.1\Practice_Integer_Variables.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Variables1\obj\Debug\netcoreapp1.1\Practice_Integer_Variables.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Variables1\obj\Debug\netcoreapp1.1\Practice_Integer_Variables.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Variables1\obj\Debug\netcoreapp1.1\Practice_Integer_Variables.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Variables1\Variables1\obj\Debug\netcoreapp1.1\Practice_Integer_Variables.pdb
