@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\BePositive\bin\Debug\netcoreapp1.1\BePositive.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\BePositive\bin\Debug\netcoreapp1.1\BePositive.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\BePositive\bin\Debug\netcoreapp1.1\BePositive.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\BePositive\bin\Debug\netcoreapp1.1\BePositive.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\BePositive\bin\Debug\netcoreapp1.1\BePositive.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\BePositive\obj\Debug\netcoreapp1.1\BePositive.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\BePositive\obj\Debug\netcoreapp1.1\BePositive.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\BePositive\obj\Debug\netcoreapp1.1\BePositive.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\BePositive\obj\Debug\netcoreapp1.1\BePositive.csprojResolveAssemblyReference.cache
