@@ -1,0 +1,9 @@
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\Sieve of Eratosthenes.deps.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\Sieve of Eratosthenes.runtimeconfig.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\Sieve of Eratosthenes.runtimeconfig.dev.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\Sieve of Eratosthenes.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\Sieve of Eratosthenes.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\Sieve of Eratosthenes.AssemblyInfo.cs
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\Sieve of Eratosthenes.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\Sieve of Eratosthenes.pdb

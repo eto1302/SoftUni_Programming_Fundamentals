@@ -1,0 +1,8 @@
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Most Frequent Number\bin\Debug\netcoreapp1.1\Most Frequent Number.deps.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Most Frequent Number\bin\Debug\netcoreapp1.1\Most Frequent Number.runtimeconfig.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Most Frequent Number\bin\Debug\netcoreapp1.1\Most Frequent Number.runtimeconfig.dev.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Most Frequent Number\bin\Debug\netcoreapp1.1\Most Frequent Number.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Most Frequent Number\bin\Debug\netcoreapp1.1\Most Frequent Number.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Most Frequent Number\obj\Debug\netcoreapp1.1\Most Frequent Number.AssemblyInfo.cs
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Most Frequent Number\obj\Debug\netcoreapp1.1\Most Frequent Number.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Most Frequent Number\obj\Debug\netcoreapp1.1\Most Frequent Number.pdb
