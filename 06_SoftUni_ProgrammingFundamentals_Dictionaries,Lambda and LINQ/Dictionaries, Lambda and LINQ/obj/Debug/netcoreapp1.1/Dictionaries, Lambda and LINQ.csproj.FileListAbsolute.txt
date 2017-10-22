@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\bin\Debug\netcoreapp1.1\Dictionaries, Lambda and LINQ.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\bin\Debug\netcoreapp1.1\Dictionaries, Lambda and LINQ.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\bin\Debug\netcoreapp1.1\Dictionaries, Lambda and LINQ.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\bin\Debug\netcoreapp1.1\Dictionaries, Lambda and LINQ.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\bin\Debug\netcoreapp1.1\Dictionaries, Lambda and LINQ.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\netcoreapp1.1\Dictionaries, Lambda and LINQ.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\netcoreapp1.1\Dictionaries, Lambda and LINQ.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\netcoreapp1.1\Dictionaries, Lambda and LINQ.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\obj\Debug\netcoreapp1.1\Dictionaries, Lambda and LINQ.pdb
