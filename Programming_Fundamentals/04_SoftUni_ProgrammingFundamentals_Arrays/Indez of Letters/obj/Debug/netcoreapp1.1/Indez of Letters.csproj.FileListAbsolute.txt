@@ -1,9 +1,0 @@
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Indez of Letters\bin\Debug\netcoreapp1.1\Indez of Letters.deps.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Indez of Letters\bin\Debug\netcoreapp1.1\Indez of Letters.runtimeconfig.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Indez of Letters\bin\Debug\netcoreapp1.1\Indez of Letters.runtimeconfig.dev.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Indez of Letters\bin\Debug\netcoreapp1.1\Indez of Letters.dll
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Indez of Letters\bin\Debug\netcoreapp1.1\Indez of Letters.pdb
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Indez of Letters\obj\Debug\netcoreapp1.1\Indez of Letters.csprojResolveAssemblyReference.cache
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Indez of Letters\obj\Debug\netcoreapp1.1\Indez of Letters.AssemblyInfo.cs
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Indez of Letters\obj\Debug\netcoreapp1.1\Indez of Letters.dll
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Indez of Letters\obj\Debug\netcoreapp1.1\Indez of Letters.pdb

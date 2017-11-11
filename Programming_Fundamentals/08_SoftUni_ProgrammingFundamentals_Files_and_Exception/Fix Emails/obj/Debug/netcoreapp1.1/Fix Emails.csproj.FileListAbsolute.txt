@@ -1,8 +1,0 @@
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Fix Emails\bin\Debug\netcoreapp1.1\Fix Emails.deps.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Fix Emails\bin\Debug\netcoreapp1.1\Fix Emails.runtimeconfig.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Fix Emails\bin\Debug\netcoreapp1.1\Fix Emails.runtimeconfig.dev.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Fix Emails\bin\Debug\netcoreapp1.1\Fix Emails.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Fix Emails\bin\Debug\netcoreapp1.1\Fix Emails.pdb
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Fix Emails\obj\Debug\netcoreapp1.1\Fix Emails.AssemblyInfo.cs
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Fix Emails\obj\Debug\netcoreapp1.1\Fix Emails.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Fix Emails\obj\Debug\netcoreapp1.1\Fix Emails.pdb

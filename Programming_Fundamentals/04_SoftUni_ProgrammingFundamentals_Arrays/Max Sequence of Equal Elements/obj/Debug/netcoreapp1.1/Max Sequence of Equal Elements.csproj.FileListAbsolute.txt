@@ -1,8 +1,0 @@
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\bin\Debug\netcoreapp1.1\Max Sequence of Equal Elements.deps.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\bin\Debug\netcoreapp1.1\Max Sequence of Equal Elements.runtimeconfig.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\bin\Debug\netcoreapp1.1\Max Sequence of Equal Elements.runtimeconfig.dev.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\bin\Debug\netcoreapp1.1\Max Sequence of Equal Elements.dll
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\bin\Debug\netcoreapp1.1\Max Sequence of Equal Elements.pdb
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\obj\Debug\netcoreapp1.1\Max Sequence of Equal Elements.AssemblyInfo.cs
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\obj\Debug\netcoreapp1.1\Max Sequence of Equal Elements.dll
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Equal Elements\obj\Debug\netcoreapp1.1\Max Sequence of Equal Elements.pdb

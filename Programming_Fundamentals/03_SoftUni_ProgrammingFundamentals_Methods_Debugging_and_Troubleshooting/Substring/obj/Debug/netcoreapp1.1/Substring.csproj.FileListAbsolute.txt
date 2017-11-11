@@ -1,9 +1,0 @@
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Substring\bin\Debug\netcoreapp1.1\Substring.deps.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Substring\bin\Debug\netcoreapp1.1\Substring.runtimeconfig.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Substring\bin\Debug\netcoreapp1.1\Substring.runtimeconfig.dev.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Substring\bin\Debug\netcoreapp1.1\Substring.dll
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Substring\bin\Debug\netcoreapp1.1\Substring.pdb
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Substring\obj\Debug\netcoreapp1.1\Substring.csprojResolveAssemblyReference.cache
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Substring\obj\Debug\netcoreapp1.1\Substring.AssemblyInfo.cs
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Substring\obj\Debug\netcoreapp1.1\Substring.dll
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Substring\obj\Debug\netcoreapp1.1\Substring.pdb

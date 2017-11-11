@@ -1,9 +1,0 @@
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Files and Exceptions\bin\Debug\netcoreapp1.1\Files and Exceptions.deps.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Files and Exceptions\bin\Debug\netcoreapp1.1\Files and Exceptions.runtimeconfig.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Files and Exceptions\bin\Debug\netcoreapp1.1\Files and Exceptions.runtimeconfig.dev.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Files and Exceptions\bin\Debug\netcoreapp1.1\Files and Exceptions.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Files and Exceptions\bin\Debug\netcoreapp1.1\Files and Exceptions.pdb
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Files and Exceptions\obj\Debug\netcoreapp1.1\Files and Exceptions.csprojResolveAssemblyReference.cache
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Files and Exceptions\obj\Debug\netcoreapp1.1\Files and Exceptions.AssemblyInfo.cs
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Files and Exceptions\obj\Debug\netcoreapp1.1\Files and Exceptions.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Files and Exceptions\obj\Debug\netcoreapp1.1\Files and Exceptions.pdb

@@ -1,8 +1,0 @@
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Equal Sums\bin\Debug\netcoreapp1.1\Equal Sums.deps.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Equal Sums\bin\Debug\netcoreapp1.1\Equal Sums.runtimeconfig.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Equal Sums\bin\Debug\netcoreapp1.1\Equal Sums.runtimeconfig.dev.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Equal Sums\bin\Debug\netcoreapp1.1\Equal Sums.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Equal Sums\bin\Debug\netcoreapp1.1\Equal Sums.pdb
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Equal Sums\obj\Debug\netcoreapp1.1\Equal Sums.AssemblyInfo.cs
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Equal Sums\obj\Debug\netcoreapp1.1\Equal Sums.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Equal Sums\obj\Debug\netcoreapp1.1\Equal Sums.pdb

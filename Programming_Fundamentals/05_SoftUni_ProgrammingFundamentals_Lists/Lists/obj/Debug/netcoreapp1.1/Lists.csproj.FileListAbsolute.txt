@@ -1,9 +1,0 @@
-c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\bin\Debug\netcoreapp1.1\Lists.deps.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\bin\Debug\netcoreapp1.1\Lists.runtimeconfig.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\bin\Debug\netcoreapp1.1\Lists.runtimeconfig.dev.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\bin\Debug\netcoreapp1.1\Lists.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\bin\Debug\netcoreapp1.1\Lists.pdb
-c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\obj\Debug\netcoreapp1.1\Lists.csprojResolveAssemblyReference.cache
-c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\obj\Debug\netcoreapp1.1\Lists.AssemblyInfo.cs
-c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\obj\Debug\netcoreapp1.1\Lists.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\obj\Debug\netcoreapp1.1\Lists.pdb
