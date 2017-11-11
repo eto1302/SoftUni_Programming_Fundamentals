@@ -1,0 +1,8 @@
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Rotate and Sum\bin\Debug\netcoreapp1.1\Rotate and Sum.deps.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Rotate and Sum\bin\Debug\netcoreapp1.1\Rotate and Sum.runtimeconfig.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Rotate and Sum\bin\Debug\netcoreapp1.1\Rotate and Sum.runtimeconfig.dev.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Rotate and Sum\bin\Debug\netcoreapp1.1\Rotate and Sum.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Rotate and Sum\bin\Debug\netcoreapp1.1\Rotate and Sum.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Rotate and Sum\obj\Debug\netcoreapp1.1\Rotate and Sum.AssemblyInfo.cs
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Rotate and Sum\obj\Debug\netcoreapp1.1\Rotate and Sum.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Rotate and Sum\obj\Debug\netcoreapp1.1\Rotate and Sum.pdb

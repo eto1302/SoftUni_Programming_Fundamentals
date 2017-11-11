@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\seqeunce of Commands\bin\Debug\netcoreapp1.1\Seqeunce of Commands.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\seqeunce of Commands\bin\Debug\netcoreapp1.1\Seqeunce of Commands.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\seqeunce of Commands\bin\Debug\netcoreapp1.1\Seqeunce of Commands.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\seqeunce of Commands\bin\Debug\netcoreapp1.1\Seqeunce of Commands.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\seqeunce of Commands\bin\Debug\netcoreapp1.1\Seqeunce of Commands.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\seqeunce of Commands\obj\Debug\netcoreapp1.1\Seqeunce of Commands.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\seqeunce of Commands\obj\Debug\netcoreapp1.1\Seqeunce of Commands.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\seqeunce of Commands\obj\Debug\netcoreapp1.1\Seqeunce of Commands.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\seqeunce of Commands\obj\Debug\netcoreapp1.1\Seqeunce of Commands.pdb

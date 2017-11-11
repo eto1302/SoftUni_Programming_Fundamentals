@@ -1,0 +1,8 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Longest Increasing Subsequence\bin\Debug\netcoreapp1.1\Longest Increasing Subsequence.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Longest Increasing Subsequence\bin\Debug\netcoreapp1.1\Longest Increasing Subsequence.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Longest Increasing Subsequence\bin\Debug\netcoreapp1.1\Longest Increasing Subsequence.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Longest Increasing Subsequence\bin\Debug\netcoreapp1.1\Longest Increasing Subsequence.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Longest Increasing Subsequence\bin\Debug\netcoreapp1.1\Longest Increasing Subsequence.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Longest Increasing Subsequence\obj\Debug\netcoreapp1.1\Longest Increasing Subsequence.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Longest Increasing Subsequence\obj\Debug\netcoreapp1.1\Longest Increasing Subsequence.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Longest Increasing Subsequence\obj\Debug\netcoreapp1.1\Longest Increasing Subsequence.pdb

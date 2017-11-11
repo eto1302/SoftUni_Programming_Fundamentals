@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Array Manipulator\bin\Debug\netcoreapp1.1\Array Manipulator.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Array Manipulator\bin\Debug\netcoreapp1.1\Array Manipulator.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Array Manipulator\bin\Debug\netcoreapp1.1\Array Manipulator.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Array Manipulator\bin\Debug\netcoreapp1.1\Array Manipulator.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Array Manipulator\bin\Debug\netcoreapp1.1\Array Manipulator.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Array Manipulator\obj\Debug\netcoreapp1.1\Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Array Manipulator\obj\Debug\netcoreapp1.1\Array Manipulator.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Array Manipulator\obj\Debug\netcoreapp1.1\Array Manipulator.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Array Manipulator\obj\Debug\netcoreapp1.1\Array Manipulator.pdb

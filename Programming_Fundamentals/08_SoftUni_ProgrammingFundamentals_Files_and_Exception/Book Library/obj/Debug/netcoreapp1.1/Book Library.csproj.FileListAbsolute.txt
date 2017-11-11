@@ -1,0 +1,9 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library\bin\Debug\netcoreapp1.1\Book Library.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library\bin\Debug\netcoreapp1.1\Book Library.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library\bin\Debug\netcoreapp1.1\Book Library.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library\bin\Debug\netcoreapp1.1\Book Library.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library\bin\Debug\netcoreapp1.1\Book Library.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library\obj\Debug\netcoreapp1.1\Book Library.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library\obj\Debug\netcoreapp1.1\Book Library.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library\obj\Debug\netcoreapp1.1\Book Library.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library\obj\Debug\netcoreapp1.1\Book Library.pdb

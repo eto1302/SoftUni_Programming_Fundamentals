@@ -1,0 +1,5 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Strings and Text Processing\Magic Exchangeable words\bin\Debug\Magic Exchangeable words.exe.config
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Strings and Text Processing\Magic Exchangeable words\bin\Debug\Magic Exchangeable words.exe
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Strings and Text Processing\Magic Exchangeable words\bin\Debug\Magic Exchangeable words.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Strings and Text Processing\Magic Exchangeable words\obj\Debug\Magic Exchangeable words.exe
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Strings and Text Processing\Magic Exchangeable words\obj\Debug\Magic Exchangeable words.pdb

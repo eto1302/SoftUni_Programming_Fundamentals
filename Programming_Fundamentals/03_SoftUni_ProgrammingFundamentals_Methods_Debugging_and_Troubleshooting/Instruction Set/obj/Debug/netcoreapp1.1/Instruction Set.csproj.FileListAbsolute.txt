@@ -1,0 +1,8 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Instruction Set\bin\Debug\netcoreapp1.1\Instruction Set.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Instruction Set\bin\Debug\netcoreapp1.1\Instruction Set.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Instruction Set\bin\Debug\netcoreapp1.1\Instruction Set.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Instruction Set\bin\Debug\netcoreapp1.1\Instruction Set.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Instruction Set\bin\Debug\netcoreapp1.1\Instruction Set.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Instruction Set\obj\Debug\netcoreapp1.1\Instruction Set.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Instruction Set\obj\Debug\netcoreapp1.1\Instruction Set.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\Instruction Set\obj\Debug\netcoreapp1.1\Instruction Set.pdb

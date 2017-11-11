@@ -1,0 +1,5 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Methods,Debugging and Troubleshooting\bin\Debug\netcoreapp1.1\Hello,Name!.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Methods,Debugging and Troubleshooting\bin\Debug\netcoreapp1.1\Hello,Name!.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Methods,Debugging and Troubleshooting\bin\Debug\netcoreapp1.1\Hello,Name!.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Methods,Debugging and Troubleshooting\obj\Debug\netcoreapp1.1\Hello,Name!.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Methods,Debugging and Troubleshooting\obj\Debug\netcoreapp1.1\Hello,Name!.AssemblyInfo.cs

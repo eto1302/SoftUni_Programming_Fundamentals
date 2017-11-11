@@ -1,0 +1,8 @@
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\bin\Debug\netcoreapp1.1\Max Sequence of Increasing Elements.deps.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\bin\Debug\netcoreapp1.1\Max Sequence of Increasing Elements.runtimeconfig.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\bin\Debug\netcoreapp1.1\Max Sequence of Increasing Elements.runtimeconfig.dev.json
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\bin\Debug\netcoreapp1.1\Max Sequence of Increasing Elements.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\bin\Debug\netcoreapp1.1\Max Sequence of Increasing Elements.pdb
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\obj\Debug\netcoreapp1.1\Max Sequence of Increasing Elements.AssemblyInfo.cs
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\obj\Debug\netcoreapp1.1\Max Sequence of Increasing Elements.dll
+c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Max Sequence of Increasing Elements\obj\Debug\netcoreapp1.1\Max Sequence of Increasing Elements.pdb
