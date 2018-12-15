@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp1.1\Objects and Classes.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp1.1\Objects and Classes.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp1.1\Objects and Classes.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp1.1\Objects and Classes.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp1.1\Objects and Classes.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp1.1\Objects and Classes.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp1.1\Objects and Classes.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp1.1\Objects and Classes.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp1.1\Objects and Classes.pdb

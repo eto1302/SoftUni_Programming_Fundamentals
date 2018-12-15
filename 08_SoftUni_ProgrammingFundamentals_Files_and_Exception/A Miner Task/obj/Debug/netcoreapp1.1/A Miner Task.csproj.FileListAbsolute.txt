@@ -1,0 +1,8 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\A Miner Task\bin\Debug\netcoreapp1.1\A Miner Task.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\A Miner Task\bin\Debug\netcoreapp1.1\A Miner Task.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\A Miner Task\bin\Debug\netcoreapp1.1\A Miner Task.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\A Miner Task\bin\Debug\netcoreapp1.1\A Miner Task.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\A Miner Task\bin\Debug\netcoreapp1.1\A Miner Task.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\A Miner Task\obj\Debug\netcoreapp1.1\A Miner Task.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\A Miner Task\obj\Debug\netcoreapp1.1\A Miner Task.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\A Miner Task\obj\Debug\netcoreapp1.1\A Miner Task.pdb

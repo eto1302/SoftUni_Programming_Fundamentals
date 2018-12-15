@@ -1,0 +1,8 @@
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library Modification\bin\Debug\netcoreapp1.1\Book Library Modification.deps.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library Modification\bin\Debug\netcoreapp1.1\Book Library Modification.runtimeconfig.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library Modification\bin\Debug\netcoreapp1.1\Book Library Modification.runtimeconfig.dev.json
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library Modification\bin\Debug\netcoreapp1.1\Book Library Modification.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library Modification\bin\Debug\netcoreapp1.1\Book Library Modification.pdb
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library Modification\obj\Debug\netcoreapp1.1\Book Library Modification.AssemblyInfo.cs
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library Modification\obj\Debug\netcoreapp1.1\Book Library Modification.dll
+C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Book Library Modification\obj\Debug\netcoreapp1.1\Book Library Modification.pdb

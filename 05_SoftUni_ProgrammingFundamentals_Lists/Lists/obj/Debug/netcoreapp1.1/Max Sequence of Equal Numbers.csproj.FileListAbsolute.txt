@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\bin\Debug\netcoreapp1.1\Max Sequence of Equal Numbers.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\bin\Debug\netcoreapp1.1\Max Sequence of Equal Numbers.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\bin\Debug\netcoreapp1.1\Max Sequence of Equal Numbers.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\bin\Debug\netcoreapp1.1\Max Sequence of Equal Numbers.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\bin\Debug\netcoreapp1.1\Max Sequence of Equal Numbers.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\obj\Debug\netcoreapp1.1\Max Sequence of Equal Numbers.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\obj\Debug\netcoreapp1.1\Max Sequence of Equal Numbers.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\obj\Debug\netcoreapp1.1\Max Sequence of Equal Numbers.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Lists\Lists\obj\Debug\netcoreapp1.1\Max Sequence of Equal Numbers.pdb

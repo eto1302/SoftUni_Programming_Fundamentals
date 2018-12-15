@@ -1,0 +1,9 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Arrays\Arrays\bin\Debug\netcoreapp1.1\Arrays.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Arrays\Arrays\bin\Debug\netcoreapp1.1\Arrays.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Arrays\Arrays\bin\Debug\netcoreapp1.1\Arrays.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Arrays\Arrays\bin\Debug\netcoreapp1.1\Arrays.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Arrays\Arrays\bin\Debug\netcoreapp1.1\Arrays.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Arrays\Arrays\obj\Debug\netcoreapp1.1\Arrays.csprojResolveAssemblyReference.cache
+c:\users\vikmar\documents\visual studio 2017\Projects\Arrays\Arrays\obj\Debug\netcoreapp1.1\Arrays.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Arrays\Arrays\obj\Debug\netcoreapp1.1\Arrays.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Arrays\Arrays\obj\Debug\netcoreapp1.1\Arrays.pdb

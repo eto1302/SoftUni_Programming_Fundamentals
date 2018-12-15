@@ -1,0 +1,8 @@
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp1.1\Count Working Days.deps.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp1.1\Count Working Days.runtimeconfig.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp1.1\Count Working Days.runtimeconfig.dev.json
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp1.1\Count Working Days.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp1.1\Count Working Days.pdb
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp1.1\Count Working Days.AssemblyInfo.cs
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp1.1\Count Working Days.dll
+c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp1.1\Count Working Days.pdb

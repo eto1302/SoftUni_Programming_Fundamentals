@@ -1,0 +1,9 @@
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\bin\Debug\netcoreapp1.1\Average Grades.deps.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\bin\Debug\netcoreapp1.1\Average Grades.runtimeconfig.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\bin\Debug\netcoreapp1.1\Average Grades.runtimeconfig.dev.json
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\bin\Debug\netcoreapp1.1\Average Grades.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\bin\Debug\netcoreapp1.1\Average Grades.pdb
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\obj\Debug\netcoreapp1.1\Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\obj\Debug\netcoreapp1.1\Average Grades.AssemblyInfo.cs
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\obj\Debug\netcoreapp1.1\Average Grades.dll
+C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Objects and Classes\Average Grades\obj\Debug\netcoreapp1.1\Average Grades.pdb
