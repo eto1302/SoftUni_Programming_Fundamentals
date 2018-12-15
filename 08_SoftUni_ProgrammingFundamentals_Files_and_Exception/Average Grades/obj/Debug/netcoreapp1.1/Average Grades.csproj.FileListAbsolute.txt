@@ -1,9 +1,0 @@
-C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Average Grades\bin\Debug\netcoreapp1.1\Average Grades.deps.json
-C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Average Grades\bin\Debug\netcoreapp1.1\Average Grades.runtimeconfig.json
-C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Average Grades\bin\Debug\netcoreapp1.1\Average Grades.runtimeconfig.dev.json
-C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Average Grades\bin\Debug\netcoreapp1.1\Average Grades.dll
-C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Average Grades\bin\Debug\netcoreapp1.1\Average Grades.pdb
-C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Average Grades\obj\Debug\netcoreapp1.1\Average Grades.csprojResolveAssemblyReference.cache
-C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Average Grades\obj\Debug\netcoreapp1.1\Average Grades.AssemblyInfo.cs
-C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Average Grades\obj\Debug\netcoreapp1.1\Average Grades.dll
-C:\Users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Average Grades\obj\Debug\netcoreapp1.1\Average Grades.pdb

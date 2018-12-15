@@ -1,9 +1,0 @@
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Bomb Numbers\bin\Debug\netcoreapp1.1\Bomb Numbers.deps.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Bomb Numbers\bin\Debug\netcoreapp1.1\Bomb Numbers.runtimeconfig.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Bomb Numbers\bin\Debug\netcoreapp1.1\Bomb Numbers.runtimeconfig.dev.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Bomb Numbers\bin\Debug\netcoreapp1.1\Bomb Numbers.dll
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Bomb Numbers\bin\Debug\netcoreapp1.1\Bomb Numbers.pdb
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Bomb Numbers\obj\Debug\netcoreapp1.1\Bomb Numbers.csprojResolveAssemblyReference.cache
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Bomb Numbers\obj\Debug\netcoreapp1.1\Bomb Numbers.AssemblyInfo.cs
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Bomb Numbers\obj\Debug\netcoreapp1.1\Bomb Numbers.dll
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Bomb Numbers\obj\Debug\netcoreapp1.1\Bomb Numbers.pdb

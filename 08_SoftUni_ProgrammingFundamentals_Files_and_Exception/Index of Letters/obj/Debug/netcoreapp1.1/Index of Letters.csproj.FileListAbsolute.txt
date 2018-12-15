@@ -1,9 +1,0 @@
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Index of Letters\bin\Debug\netcoreapp1.1\Index of Letters.deps.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Index of Letters\bin\Debug\netcoreapp1.1\Index of Letters.runtimeconfig.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Index of Letters\bin\Debug\netcoreapp1.1\Index of Letters.runtimeconfig.dev.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Index of Letters\bin\Debug\netcoreapp1.1\Index of Letters.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Index of Letters\bin\Debug\netcoreapp1.1\Index of Letters.pdb
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Index of Letters\obj\Debug\netcoreapp1.1\Index of Letters.AssemblyInfo.cs
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Index of Letters\obj\Debug\netcoreapp1.1\Index of Letters.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Index of Letters\obj\Debug\netcoreapp1.1\Index of Letters.pdb
-c:\users\vikmar\documents\visual studio 2017\Projects\Files and Exceptions\Index of Letters\obj\Debug\netcoreapp1.1\Index of Letters.csprojResolveAssemblyReference.cache

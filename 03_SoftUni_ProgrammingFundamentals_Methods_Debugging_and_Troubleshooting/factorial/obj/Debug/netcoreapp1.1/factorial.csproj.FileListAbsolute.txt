@@ -1,5 +1,0 @@
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\factorial\bin\Debug\netcoreapp1.1\factorial.deps.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\factorial\bin\Debug\netcoreapp1.1\factorial.runtimeconfig.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\factorial\bin\Debug\netcoreapp1.1\factorial.runtimeconfig.dev.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\factorial\obj\Debug\netcoreapp1.1\factorial.csprojResolveAssemblyReference.cache
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Methods,Debugging and Troubleshooting\factorial\obj\Debug\netcoreapp1.1\factorial.AssemblyInfo.cs

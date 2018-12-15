@@ -1,8 +1,0 @@
-c:\Users\vikmar\documents\visual studio 2017\Projects\Lists\Search for a Number\bin\Debug\netcoreapp1.1\Search for a Number.deps.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Lists\Search for a Number\bin\Debug\netcoreapp1.1\Search for a Number.runtimeconfig.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Lists\Search for a Number\bin\Debug\netcoreapp1.1\Search for a Number.runtimeconfig.dev.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Lists\Search for a Number\bin\Debug\netcoreapp1.1\Search for a Number.dll
-c:\Users\vikmar\documents\visual studio 2017\Projects\Lists\Search for a Number\bin\Debug\netcoreapp1.1\Search for a Number.pdb
-c:\Users\vikmar\documents\visual studio 2017\Projects\Lists\Search for a Number\obj\Debug\netcoreapp1.1\Search for a Number.AssemblyInfo.cs
-c:\Users\vikmar\documents\visual studio 2017\Projects\Lists\Search for a Number\obj\Debug\netcoreapp1.1\Search for a Number.dll
-c:\Users\vikmar\documents\visual studio 2017\Projects\Lists\Search for a Number\obj\Debug\netcoreapp1.1\Search for a Number.pdb

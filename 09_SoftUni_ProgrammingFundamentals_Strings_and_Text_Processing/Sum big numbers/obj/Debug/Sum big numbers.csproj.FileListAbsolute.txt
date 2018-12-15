@@ -1,5 +1,0 @@
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Strings and Text Processing\Sum big numbers\bin\Debug\Sum big numbers.exe.config
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Strings and Text Processing\Sum big numbers\bin\Debug\Sum big numbers.exe
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Strings and Text Processing\Sum big numbers\bin\Debug\Sum big numbers.pdb
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Strings and Text Processing\Sum big numbers\obj\Debug\Sum big numbers.exe
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Strings and Text Processing\Sum big numbers\obj\Debug\Sum big numbers.pdb

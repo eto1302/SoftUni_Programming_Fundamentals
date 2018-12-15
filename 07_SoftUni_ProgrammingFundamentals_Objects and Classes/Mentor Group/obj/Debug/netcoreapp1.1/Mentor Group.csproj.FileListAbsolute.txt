@@ -1,9 +1,0 @@
-C:\Users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Mentor Group\bin\Debug\netcoreapp1.1\Mentor Group.deps.json
-C:\Users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Mentor Group\bin\Debug\netcoreapp1.1\Mentor Group.runtimeconfig.json
-C:\Users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Mentor Group\bin\Debug\netcoreapp1.1\Mentor Group.runtimeconfig.dev.json
-C:\Users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Mentor Group\bin\Debug\netcoreapp1.1\Mentor Group.dll
-C:\Users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Mentor Group\bin\Debug\netcoreapp1.1\Mentor Group.pdb
-C:\Users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Mentor Group\obj\Debug\netcoreapp1.1\Mentor Group.csprojResolveAssemblyReference.cache
-C:\Users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Mentor Group\obj\Debug\netcoreapp1.1\Mentor Group.AssemblyInfo.cs
-C:\Users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Mentor Group\obj\Debug\netcoreapp1.1\Mentor Group.dll
-C:\Users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Mentor Group\obj\Debug\netcoreapp1.1\Mentor Group.pdb

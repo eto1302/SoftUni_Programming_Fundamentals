@@ -1,9 +1,0 @@
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Intersection of circles\bin\Debug\netcoreapp1.1\Intersection of circles.deps.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Intersection of circles\bin\Debug\netcoreapp1.1\Intersection of circles.runtimeconfig.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Intersection of circles\bin\Debug\netcoreapp1.1\Intersection of circles.runtimeconfig.dev.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Intersection of circles\bin\Debug\netcoreapp1.1\Intersection of circles.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Intersection of circles\bin\Debug\netcoreapp1.1\Intersection of circles.pdb
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Intersection of circles\obj\Debug\netcoreapp1.1\Intersection of circles.csprojResolveAssemblyReference.cache
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Intersection of circles\obj\Debug\netcoreapp1.1\Intersection of circles.AssemblyInfo.cs
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Intersection of circles\obj\Debug\netcoreapp1.1\Intersection of circles.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Intersection of circles\obj\Debug\netcoreapp1.1\Intersection of circles.pdb

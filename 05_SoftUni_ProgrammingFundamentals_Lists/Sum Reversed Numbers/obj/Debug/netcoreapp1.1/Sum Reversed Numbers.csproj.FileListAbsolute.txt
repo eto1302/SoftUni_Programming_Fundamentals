@@ -1,9 +1,0 @@
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Sum Reversed Numbers\bin\Debug\netcoreapp1.1\Sum Reversed Numbers.deps.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Sum Reversed Numbers\bin\Debug\netcoreapp1.1\Sum Reversed Numbers.runtimeconfig.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Sum Reversed Numbers\bin\Debug\netcoreapp1.1\Sum Reversed Numbers.runtimeconfig.dev.json
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Sum Reversed Numbers\bin\Debug\netcoreapp1.1\Sum Reversed Numbers.dll
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Sum Reversed Numbers\bin\Debug\netcoreapp1.1\Sum Reversed Numbers.pdb
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Sum Reversed Numbers\obj\Debug\netcoreapp1.1\Sum Reversed Numbers.csprojResolveAssemblyReference.cache
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Sum Reversed Numbers\obj\Debug\netcoreapp1.1\Sum Reversed Numbers.AssemblyInfo.cs
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Sum Reversed Numbers\obj\Debug\netcoreapp1.1\Sum Reversed Numbers.dll
-C:\Users\vikmar\Documents\Visual Studio 2017\Projects\Lists\Sum Reversed Numbers\obj\Debug\netcoreapp1.1\Sum Reversed Numbers.pdb

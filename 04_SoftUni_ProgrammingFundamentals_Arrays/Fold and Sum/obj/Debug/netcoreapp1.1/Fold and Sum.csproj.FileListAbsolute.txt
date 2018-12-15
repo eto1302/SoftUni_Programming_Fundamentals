@@ -1,9 +1,0 @@
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Fold and Sum\bin\Debug\netcoreapp1.1\Fold and Sum.deps.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Fold and Sum\bin\Debug\netcoreapp1.1\Fold and Sum.runtimeconfig.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Fold and Sum\bin\Debug\netcoreapp1.1\Fold and Sum.runtimeconfig.dev.json
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Fold and Sum\bin\Debug\netcoreapp1.1\Fold and Sum.dll
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Fold and Sum\bin\Debug\netcoreapp1.1\Fold and Sum.pdb
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Fold and Sum\obj\Debug\netcoreapp1.1\Fold and Sum.csprojResolveAssemblyReference.cache
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Fold and Sum\obj\Debug\netcoreapp1.1\Fold and Sum.AssemblyInfo.cs
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Fold and Sum\obj\Debug\netcoreapp1.1\Fold and Sum.dll
-c:\Users\vikmar\documents\visual studio 2017\Projects\Arrays\Fold and Sum\obj\Debug\netcoreapp1.1\Fold and Sum.pdb

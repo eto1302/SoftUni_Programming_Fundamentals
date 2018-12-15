@@ -1,9 +1,0 @@
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\bin\Debug\netcoreapp1.1\Advertisement Message.deps.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\bin\Debug\netcoreapp1.1\Advertisement Message.runtimeconfig.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\bin\Debug\netcoreapp1.1\Advertisement Message.runtimeconfig.dev.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\bin\Debug\netcoreapp1.1\Advertisement Message.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\bin\Debug\netcoreapp1.1\Advertisement Message.pdb
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\obj\Debug\netcoreapp1.1\Advertisement Message.csprojResolveAssemblyReference.cache
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\obj\Debug\netcoreapp1.1\Advertisement Message.AssemblyInfo.cs
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\obj\Debug\netcoreapp1.1\Advertisement Message.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Objects and Classes\Advertisement Message\obj\Debug\netcoreapp1.1\Advertisement Message.pdb

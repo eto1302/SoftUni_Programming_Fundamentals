@@ -1,9 +1,0 @@
-c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Master Number\bin\Debug\netcoreapp1.1\Master Numbers.deps.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Master Number\bin\Debug\netcoreapp1.1\Master Numbers.runtimeconfig.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Master Number\bin\Debug\netcoreapp1.1\Master Numbers.runtimeconfig.dev.json
-c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Master Number\bin\Debug\netcoreapp1.1\Master Numbers.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Master Number\bin\Debug\netcoreapp1.1\Master Numbers.pdb
-c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Master Number\obj\Debug\netcoreapp1.1\Master Numbers.csprojResolveAssemblyReference.cache
-c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Master Number\obj\Debug\netcoreapp1.1\Master Numbers.AssemblyInfo.cs
-c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Master Number\obj\Debug\netcoreapp1.1\Master Numbers.dll
-c:\users\vikmar\documents\visual studio 2017\Projects\Methods,Debugging and Troubleshooting\Master Number\obj\Debug\netcoreapp1.1\Master Numbers.pdb
